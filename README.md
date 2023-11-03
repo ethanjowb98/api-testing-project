@@ -1,4 +1,4 @@
-# ethan-api-testing-projecty
+# ethan-api-testing-project
 
 
 
