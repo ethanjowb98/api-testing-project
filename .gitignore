@@ -1,0 +1,7 @@
+.venv
+__pycache__
+output.json
+pytest_html_report.html
+reports/
+.pytest_cache
+archive/
